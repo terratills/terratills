@@ -1,4 +1,4 @@
-# TerraTills — Authenticated User Dashboard
+# TerraTills Authenticated User Dashboard
 > **Nigeria-First Agricultural Services Marketplace**
 
 TerraTills is a unified agricultural marketplace application connecting Nigerian farmers, landowners, machinery fleet owners, agricultural labour coordinators, and agronomy educators.
